@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="33819" started-at="2020-05-23T14:50:00 EDT" finished-at="2020-05-23T14:50:34 EDT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="33819" started-at="2020-05-23T14:50:00 EDT" finished-at="2020-05-23T14:50:34 EDT">
+      <class name="Pobject.amazonTest">
+        <test-method status="PASS" signature="launce()[pri:0, instance:Pobject.amazonTest@5cb9f472]" name="launce" duration-ms="33776" started-at="2020-05-23T14:50:00 EDT" finished-at="2020-05-23T14:50:34 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launce -->
+      </class> <!-- Pobject.amazonTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
